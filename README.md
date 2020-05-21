@@ -17,3 +17,5 @@ in this challenge a script was created in pandas to generate the following infor
 * The calculated correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot a linear regression on the previous scatter plot.
 
 ![](Analysis/Pymaceuticals/scatterplot.png)
+
+![](Analysis/Pymaceuticals/plyplot_mice_bar_chart.png)
