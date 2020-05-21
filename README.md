@@ -16,3 +16,4 @@ in this challenge a script was created in pandas to generate the following infor
 * Generate a box and whisker plot of the final tumor volume for all four treatment regimens and highlight any potential outliers in the plot by changing their color and style.
 * The calculated correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment. Plot a linear regression on the previous scatter plot.
 
+![](Analysis/Pymaceuticals/scatterplot.png)
